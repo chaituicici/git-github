@@ -1,2 +1,3 @@
 # git-github
-This is for sample.
+This is 1st sample.
+This is 2nd sample.
