@@ -1,0 +1,1 @@
+forfiles /p "D:\BRE\Bill" /s /d -30 /c "cmd /c del @file : date >= 30 days >NUL"
